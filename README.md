@@ -76,5 +76,8 @@ sendRedirect()
 
 ```
 
+### HTTP-EQUIV类型的补充
+![null](pic/TIM图片20190525093445.jpg)
+![null](pic/TIM图片20190525093511.jpg)
 
 天道酬勤
